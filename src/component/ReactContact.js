@@ -14,6 +14,7 @@ const ReactContact = () => {
         <input type="text" />
         </label> 
     </form>
+    <br></br>
     <button>Make a new directory</button>
        </> 
     );
